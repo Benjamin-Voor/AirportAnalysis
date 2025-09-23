@@ -18,9 +18,11 @@ For the rest of this README, I'm just gonna copy-paste from the assignments' .pd
 • Graph Theory and Data Structures: We learned about graph data structures, how to represent
 them in code, and how they can model real-world problems. We understood concepts like nodes
 (vertices) and edges, and how to store them using adjacency lists or matrices.
+
 • Algorithm Implementation: Implementing graph algorithms like Dijkstra's algorithm, DFS, BFS,
 Prim’s, and Kruskal’s has deepened our understanding of these algorithms, their time complexities, and
 their applications in finding the shortest or most efficient paths.
+
 • Data Processing and Manipulation: Working with datasets, such as airport and flight information,
 has given us experience in data processing, filtering, and transformation, which are valuable skills
 in data analysis and software development.
